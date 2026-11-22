@@ -1,5 +1,7 @@
 # RACELEDGER
 
+## Current Ongoing Project -> Nov, 2026 - 
+
 RaceLedger is a motorsport financial intelligence platform which is designed to connect with vehicle performance, 
 operational expenditure, component's lifecycle management and financial forecasting under one roof (single website).
 
